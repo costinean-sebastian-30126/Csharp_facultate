@@ -1,0 +1,6 @@
+C:\Users\Sebi\source\repos\lab2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\lab2\WindowsFormsApp2\obj\Debug\WindowsFormsApp.MainForm.resources
+C:\Users\Sebi\source\repos\lab2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Sebi\source\repos\lab2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\lab2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\lab2\WindowsFormsApp2\obj\Debug\ListBoxProject.MainForm.resources
